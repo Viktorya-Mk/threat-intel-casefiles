@@ -1,4 +1,4 @@
-**TLP:CLEAR** | Based on open-source reporting | Prepared for portfolio reference
+**TLP:CLEAR** | Based on open-source reporting
 
 # APT41: Attack Lifecycle Analysis
 
