@@ -1,4 +1,4 @@
-**TLP:CLEAR** | Based on open-source reporting
+Based on open-source reporting
 
 # APT38: Attack Lifecycle Analysis
 
