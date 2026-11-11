@@ -4,9 +4,9 @@ Based on open-source reporting
 
 ## Key Judgments
 
-- We assess with high confidence that APT41 is a Chinese state-sponsored group whose operators also run financially motivated intrusions for personal gain, using the same non-public malware for both purposes.
-- We assess with high confidence, based on operational-hours analysis, that state-tasked activity occurs during standard working hours in China while financially motivated activity against the video game industry occurs later at night, consistent with side work rather than a formal second mission.
-- We assess with moderate confidence that the group's supply chain compromises grew directly out of techniques first developed against video game production environments.
+- It is assessed with high confidence that APT41 is a Chinese state-sponsored group whose operators also run financially motivated intrusions for personal gain, using the same non-public malware for both purposes.
+- It is assessed with high confidence, based on operational-hours analysis, that state-tasked activity occurs during standard working hours in China while financially motivated activity against the video game industry occurs later at night, consistent with side work rather than a formal second mission.
+- It is assessed with moderate confidence that the group's supply chain compromises grew directly out of techniques first developed against video game production environments.
 
 ## Scope and Sources
 
