@@ -4,9 +4,9 @@ Based on open-source reporting
 
 ## Key Judgments
 
-- We assess with high confidence that APT38 is a North Korean state-sponsored group whose financial theft operations function as regime revenue generation, not ordinary cybercrime.
-- We assess with moderate confidence that the group's long dwell times reflect a deliberate choice to treat each intrusion as an internal reconnaissance project before any transaction fraud is attempted.
-- We assess with high confidence that the group's destructive endgame, including disk wiping and mass service outages, is intended to slow investigation and cover the preceding theft rather than to punish the victim.
+- It is assessed with high confidence that APT38 is a North Korean state-sponsored group whose financial theft operations function as regime revenue generation, not ordinary cybercrime.
+- It is assessed with moderate confidence that the group's long dwell times reflect a deliberate choice to treat each intrusion as an internal reconnaissance project before any transaction fraud is attempted.
+- It is assessed with high confidence that the group's destructive endgame, including disk wiping and mass service outages, is intended to slow investigation and cover the preceding theft rather than to punish the victim.
 
 ## Scope and Sources
 
